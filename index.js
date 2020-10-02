@@ -45,9 +45,7 @@ client.connect(err => {
       })
   })
 
-  app.get('/connect', (req, res) => {
-    
-  })
+
 });
 
 
